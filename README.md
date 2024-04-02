@@ -2,6 +2,8 @@
 
 Modular status bar for dwm written in c.
 
+This is my own config of Luke Smith's build of dwmblocks.
+
 # Modifying blocks
 
 The statusbar is made from text output from commandline programs.  Blocks are
